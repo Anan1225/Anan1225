@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌏 Stay hungry, stay foolish with barbaric growth
 - 📫 Reach me at chenanan1225@gmail.com 
 
-###  Wish you a nice day!👧🏻
+###  Wish you a nice day! 👧🏻
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anan1225&show_icons=true&theme=graywhite&hide_border=false&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
