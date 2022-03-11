@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **Anan1225/Anan1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,10 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently study at university in Xi'an
-📫 How to reach me: chenanan1225@gmail.com
-✨ I'm happy when coding, wish you too
-🌏 Stay hungry, stay foolish with barbaric growth
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anan1225&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anan1225&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anan1225&show_icons=true&theme=default&hide_border=false&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+- 👋 Hi, I’m @AnanChen
+- 🌱 I’m currently study at university in Xi'an 
+- ✨ Happy at coding, wish you too
+- 🌏 Stay hungry, stay foolish with barbaric growth
+- 📫 reach me at chenanan1225@gmail.com 
