@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🌱 Currently study at university in Xi'an 
 - ✨ Happy at coding, wish you too
 - 🌏 Stay hungry, stay foolish with barbaric growth
+- 💬 Ask me about anything [Here](https://github.com/Anan1225/Anan1225/issues/1)
 - 📫 Reach me at chenanan1225@gmail.com 
 
 ###  Wish you a nice day! 👧🏻
