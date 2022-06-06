@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 ###    Wish you a nice day! 👧🏻
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anan1225&show_icons=true&theme=graywhite&hide_border=false&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anan1225&show_icons=true&theme=graywhite&hide_border=false&hide=prs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
