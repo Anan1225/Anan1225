@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m @AnanChen
-- 🌱 Currently study at university in Xi'an 
+- 🌱 Currently study at Mcmaster University  
 - ✨ Happy at coding, wish you too
 - 🌏 Stay hungry, stay foolish with barbaric growth
 - 💬 Ask me about anything [Here](https://github.com/Anan1225/Anan1225/issues/1)
